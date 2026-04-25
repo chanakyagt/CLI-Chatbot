@@ -1,0 +1,6 @@
+.env
+myenv/
+__pycache__/
+*.pyc
+chat_log.jsonl
+.ipynb_checkpoints/

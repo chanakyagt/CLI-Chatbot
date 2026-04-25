@@ -1,0 +1,34 @@
+URBAN HEAT ISLAND RESEARCH ARTICLE
+
+Title: "Urban heat: an increasing threat to global health"
+Source: BMJ (British Medical Journal) - PMC
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8543181/
+
+Key Findings:
+
+1. OVERVIEW OF URBAN HEAT ISLAND EFFECT
+- Urban areas are generally warmer than adjacent rural and suburban areas
+- For example, London's city center can be 4°C higher than outer rural areas
+- During extreme heat events, this differential can reach 10°C, with the largest differential at night
+- Caused by materials like metal, concrete, and brick that efficiently absorb and store heat from the sun
+
+2. HEALTH IMPACTS
+- Children born in 2020 will experience 2-7 times more extreme heat events compared to those born in 1960
+- Urban heat stress poses major risk to public health
+- Disproportionately affects marginalized and low-income communities
+
+3. GLOBAL SIGNIFICANCE
+- World's urban population expected to grow from 4.2 billion (2018) to 6.7 billion by 2050
+- Climate change, urbanization, and aging population converge to increase heat-related risks
+- Extreme heat events increasing worldwide due to human-induced climate change
+
+4. MITIGATION STRATEGIES
+According to research on urban heat islands:
+- Energy efficiency improvements
+- Urban landscape optimization
+- Green roof construction
+- High reflectivity material utilization
+- Green land cultivation
+- Remote sensing technology and numerical simulation methods for research
+
+This peer-reviewed article provides comprehensive analysis of urban heat island effects and their impact on public health, making it an excellent resource for understanding this critical environmental phenomenon.
